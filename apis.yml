@@ -1,0 +1,54 @@
+aid: kindbody
+url: https://raw.githubusercontent.com/api-evangelist/kindbody/refs/heads/main/apis.yml
+name: Kindbody
+type: Index
+kind: company
+description: >-
+  Kindbody is a national fertility and family-building clinic network and
+  employer benefit provider. Services include IVF, egg freezing, embryo
+  banking, male fertility care, LGBTQ+ family building, oncofertility,
+  gestational surrogacy, and egg donation, plus a wellness layer
+  (Kindbody360) and lab testing (Kindlabs). Kindbody operates a
+  direct-to-employer fertility benefit and partners with payers; clinical
+  workflows are exposed through a Patient Portal, an online scheduling system,
+  and a Referring Provider Portal. No public developer or partner API has been
+  identified - integration appears to be handled through gated employer and
+  payer onboarding. This entry catalogs the company surface for the API
+  Evangelist index.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Femtech
+  - Women's Health
+  - Fertility
+  - IVF
+  - Family Building
+  - Reproductive Health
+  - Employer Benefits
+  - Healthcare Clinics
+  - Virtual Care
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://kindbody.com/
+  - type: PatientPortal
+    url: https://portal.kindbody.com/login
+  - type: Scheduling
+    url: https://kindbody.com/scheduling/location-select/all/
+  - type: ReferringProvider
+    url: https://kindbody.com/referring-provider/
+  - type: Employers
+    url: https://kindbody.com/employers/
+  - type: Locations
+    url: https://kindbody.com/locations/
+  - type: Careers
+    url: https://kindbody.com/careers/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/kindbody/
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
