@@ -33,6 +33,10 @@ tags:
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/kindbody-trust-center.yml
+  - type: DomainSecurity
+    url: security/kindbody-domain-security.yml
   - type: Website
     url: https://kindbody.com/
   - type: PatientPortal
@@ -49,6 +53,8 @@ common:
     url: https://kindbody.com/careers/
   - type: LinkedIn
     url: https://www.linkedin.com/company/kindbody/
+  - url: https://kindbody.com/blog/feed/
+    type: Blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
