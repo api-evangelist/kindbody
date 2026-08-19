@@ -41,7 +41,7 @@ tags:
   - Employer Benefits
   - Healthcare Clinics
   - Virtual Care
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: TrustCenter
